@@ -1,3 +1,11 @@
 textarea {
   resize: none;
 }
+
+.overlay-div {
+  display: block;
+}
+
+.overlay-content {
+  display: block;
+}
